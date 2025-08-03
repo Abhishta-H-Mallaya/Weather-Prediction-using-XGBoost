@@ -74,7 +74,7 @@ This project focuses on real-time **air quality prediction** using the **XGBoost
 ## 📂 Project Structure
 
 - `WEARTHER_PREDICTION.ipynb` – Core notebook: data cleaning, model training, evaluation
-- `DATA SET-MATH.xlsx` – Collected dataset
+- `DATA.xlsx` – Collected dataset
 - `README.md` – Documentation
 
 ---
